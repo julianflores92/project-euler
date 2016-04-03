@@ -1,0 +1,62 @@
+#header {
+	font-family: Copperplate,Copperplate Gothic Light,fantasy;
+	border-radius: 3pt;
+	text-align: center;
+	display: inline-block;
+}
+
+#header p {
+	font-size: 40px;
+}
+
+body {
+	margin: 0px;
+}
+
+html {
+	height: 100%;
+	background-color: #f2e6d9;
+}
+
+ul {
+	list-style-type: none;
+	display: inline-block;
+}
+
+li {
+	font-family: Copperplate,Copperplate Gothic Light,fantasy;
+	font-size: 18pt;
+}
+
+#col2 {
+	position: relative;
+}
+
+#par {
+	font-family: Copperplate,Copperplate Gothic Light,fantasy;
+	font-size: 15pt;
+	position: absolute;
+	top: 0;
+	display: inline-block;
+	margin-left: 83px;
+}
+
+a {
+	text-decoration: none;
+}
+
+img {
+	padding: 0px;
+	padding-right: 70px;
+	vertical-align: middle;
+	margin-left: 27px;
+	width: 100px;
+}
+
+#header {
+	display: inline-block;
+}
+
+#content {
+	display: inline;
+}
